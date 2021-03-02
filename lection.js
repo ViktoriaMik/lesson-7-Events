@@ -71,5 +71,6 @@
 
 
 let numberArr = [1, 2, 3, 4, 5, 6, 7]
+
 let red = numberArr.reduce((acun, curret) => acun + curret)
 console.log(red);
